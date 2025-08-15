@@ -2,7 +2,7 @@ package Practice_1;
 
 //For döngüsü kullanarak dizi elemanlarını ekrana yazdırınız.
 
-public class main_7 {
+public class main_07 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
 

@@ -1,15 +1,15 @@
 package Practice_1;
 
 /*Aşağıdaki kod çalıştırıldığında StringConcat fonksiyonu 2 değişkeni de string beklediğinden dolayı hata almaktadır.
-isSuccesfull değişkenini parametre olarak String'e cevirerek yollayınız.
+avgScore değişkenini parametre olarak String'e cevirerek yollayınız.
 */
 
-public class main_4 {
+public class main_05 {
     public static void main(String[] args) {
-        String message = "Öğrencinin sınıfı geçti mi: ";
-        boolean isSuccesfull = true;
-        String isSuccesfullStr = Boolean.toString(isSuccesfull);
-        stringConcat(message, isSuccesfullStr);
+        String message = "Öğrencinin not artalaması: ";
+        double avgScore = 86.7;
+        String avgScoreStr = Double.toString(avgScore);
+        stringConcat(message, avgScoreStr);
     }
 
 
@@ -17,3 +17,5 @@ public class main_4 {
         System.out.println(firstWord + " " + secondWord);
     }
 }
+
+

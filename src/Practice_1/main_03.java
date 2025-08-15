@@ -4,7 +4,7 @@ package Practice_1;
 firstNum değişkenini parametre olarak String'e cevirerek yollayınız.
 */
 
-public class main_3 {
+public class main_03 {
     public static void main(String[] args) {
         String message = "Öğrencinin sınav notu: ";
         int firstNum = 100;

@@ -5,7 +5,7 @@
 3-)isJavaFun isminde boolean tipinde bir değişken tanımla ve değerini true olarak ata.
 */
 
-public class main_1 {
+public class main_01 {
     public static void main(String[] args) {
         int number = 10;
         double decimalNumber = 20.5;

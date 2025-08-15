@@ -7,7 +7,7 @@ package Practice_1;
 4-)salary adında bir değişken tanımla ve 42.500 değerini ata
 */
 
-public class main_9 {
+public class main_09 {
     public static void main(String[] args) {
 
         String firstName = "Ali";
